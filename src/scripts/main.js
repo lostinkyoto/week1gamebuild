@@ -19,4 +19,3 @@ function gameLoop() {
 gameLoop();
  
 
-this
