@@ -17,3 +17,6 @@ function gameLoop() {
 }
 
 gameLoop();
+ 
+
+this
